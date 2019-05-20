@@ -1,4 +1,4 @@
-# c25k app notebooks
+# c25k notebooks
 
 AWS BDB exploratory reports
 
